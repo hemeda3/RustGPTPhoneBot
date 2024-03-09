@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "xxxxxxxxxxxxxxxx",
+  "private_key_id": "xxxxxxxxxxxx",
+  "private_key": "xxxxxxxxxxxx",
+  "client_email": "xxxxxxxxspeech-api-admin@m ....serviceaccount.com",
+  "client_id": "xxxxxxxx",
+  "auth_uri": "xxxxxxxxxxxxhttps://accounts.google.com/o/oauth2/auth",
+  "token_uri": "xxxxxxxxxxxxhttps://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "xxxxxxxxhttps://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "xxxxxxxxxxxxxxxxxxxxxxxx",
+  "universe_domain": "xxxxxxxxgoogleapis.com"
+}
